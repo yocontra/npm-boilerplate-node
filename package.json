@@ -51,6 +51,16 @@
     "rimraf": "^2.5.0",
     "should": "^8.0.0"
   },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-0"
+    ],
+    "plugins": [
+      "transform-runtime",
+      "add-module-exports"
+    ]
+  },
   "eslintConfig": {
     "parser": "babel-eslint",
     "extends": "rackt",
@@ -61,5 +71,5 @@
     "ecmaFeatures": {
       "modules": true
     }
-  }
+  },
 }
