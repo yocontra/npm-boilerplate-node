@@ -44,6 +44,7 @@
     "babel-register": "^6.4.3",
     "babelify": "^7.2.0",
     "eslint": "^1.10.3",
+    "eslint-cli": "^1.0.0",
     "eslint-config-rackt": "^1.1.1",
     "gitbook-cli": "^1.0.1",
     "github-changes": "^1.0.1",
