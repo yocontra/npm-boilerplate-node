@@ -72,5 +72,8 @@
     "ecmaFeatures": {
       "modules": true
     }
+  },
+  "dependencies": {
+    "babel-runtime": "^6.3.19"
   }
 }
