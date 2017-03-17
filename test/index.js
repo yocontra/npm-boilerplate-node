@@ -5,8 +5,7 @@ import should from 'should'
 import lib from '../src'
 
 describe('lib', () => {
-  it('should exist', (done) => {
+  it('should exist', async () => {
     should.exist(lib)
-    done()
   })
 })
