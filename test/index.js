@@ -4,7 +4,7 @@
 import should from 'should'
 import lib from '../src'
 
-describe('lib', () => {
+describe('npm-boilerplate-node', () => {
   it('should exist', async () => {
     should.exist(lib)
   })
