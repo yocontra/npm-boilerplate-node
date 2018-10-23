@@ -2,6 +2,6 @@
 
 exports.__esModule = true;
 
-exports.default = () => {};
+exports.default = function () {};
 
 module.exports = exports.default;
